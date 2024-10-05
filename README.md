@@ -1,6 +1,6 @@
 # Software Engineer
 
-Low Level Programming | High-Performance Computing | Embedded Systems
+Embedded Systems | CI
 
 ---
 
@@ -16,6 +16,8 @@ Low Level Programming | High-Performance Computing | Embedded Systems
 [![Bash](res/bash.svg.png)](https://devdocs.io/bash/)
 [![PS](res/powershell.svg.png)](https://docs.microsoft.com/en-us/powershell/)
 
+
+## Operating Systems
 <!--Operating Systems-->
 [![Linux](res/linux.svg.png)](https://www.kernel.org/doc/html/latest/)
 [![Windows](res/windows.svg.png)](https://docs.microsoft.com/en-us/windows/windows-10/)
